@@ -24,3 +24,5 @@ def test_20():
 
 def test_100():
     assert value("What's up, Hanson001?") == 100
+
+    

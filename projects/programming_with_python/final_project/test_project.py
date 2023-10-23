@@ -83,3 +83,5 @@ def test_show_debts():
     output2 = "yun owes jackson 40.00 EUR\nhan owes jackson 20.00 EUR"  # Removed extra space
     assert result2 == output2
 
+
+

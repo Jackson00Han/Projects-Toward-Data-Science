@@ -92,3 +92,5 @@ def test_size_property():
     jar.capacity = 6
     with pytest.raises(ValueError):
         jar.size = 10
+
+        

@@ -13,10 +13,8 @@ def main():
     else:
         print("Invalid")
 
-
 def is_valid(s):
     ...
-
 
 main()"""
 

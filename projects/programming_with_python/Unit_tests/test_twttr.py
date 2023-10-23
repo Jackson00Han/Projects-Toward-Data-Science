@@ -22,3 +22,5 @@ def test_shorten():
     assert shorten("what's your name?") == "wht's yr nm?"
     assert shorten("iCS50") == "CS50"
 
+
+

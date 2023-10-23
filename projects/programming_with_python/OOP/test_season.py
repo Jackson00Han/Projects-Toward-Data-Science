@@ -10,3 +10,5 @@ def test_format():
         get_minutes("1992")
     with pytest.raises(SystemExit, match="Invalid date"):
         get_minutes("Jan 1, 1992")
+
+        

@@ -51,3 +51,5 @@ def test_gauge_F():
 
 def test_gauge_normal():
     assert gauge(20) == "20%"
+
+
