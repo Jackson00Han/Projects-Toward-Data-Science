@@ -60,6 +60,5 @@ def convert(time):
 
     return x + y
 
-
 if __name__ == "__main__":
     main()
