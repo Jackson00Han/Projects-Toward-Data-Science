@@ -1,4 +1,4 @@
-# Projects-towards-to-Data-Science
+# Projects-towards-Data-Science
 
 🚀 Welcome to My Data Science Adventure! 🚀
 
