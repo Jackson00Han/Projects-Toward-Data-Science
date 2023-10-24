@@ -2,7 +2,7 @@
 
 🚀 Hi there! Welcome to My Data Science Adventure! 🚀
 
-Explore my efforts and innovative developments in the fascinating topic of data science. This repository serves as my coding journal, meticulously documenting each step of my journey.
+Explore my efforts and innovative developments in the fascinating topic of data science. This repository serves as my coding journal, meticulously documenting each step of my journey. 
 
 🧩 Projects & difficulties: Primarily based on real programming difficulties from HarvardX's Data Science Professional Program. Each project, a unique puzzle solved and displayed here, symbolizes a step forward in my learning journey.
 
