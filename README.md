@@ -1,6 +1,6 @@
 # Projects-towards-Data-Science
 
-🚀 Welcome to My Data Science Adventure! 🚀
+🚀 Hi there! Welcome to My Data Science Adventure! 🚀
 
 Explore my efforts and innovative developments in the fascinating topic of data science. This repository serves as my coding journal, meticulously documenting each step of my journey.
 
