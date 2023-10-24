@@ -1,0 +1,10 @@
+SELECT p.year, p.HR AS 'home runs'
+FROM performances p
+WHERE player_id = (
+    SELECT id
+    FROM players
+    WHERE first_name LIKE '%Ken%'
+    AND last_name LIKE '%Griffey%'
+    AND birth_year = 1969
+)
+ORDER BY year DESC;
