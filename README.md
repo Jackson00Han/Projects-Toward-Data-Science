@@ -1,11 +1,6 @@
 # Projects-towards-Data-Science
 
-🚀 Hi there! Welcome to My Data Science Adventure! 🚀
 
-Explore my efforts and innovative developments in the fascinating topic of data science. This repository serves as my coding journal, meticulously documenting each step of my journey. 
+Welcome to my learning diary! 
 
-🧩 Projects & difficulties: Primarily based on real programming difficulties from HarvardX's Data Science Professional Program. Each project, a unique puzzle solved and displayed here, symbolizes a step forward in my learning journey.
-
-💡 Learning and Development: Each line of code provides a story of discovery, inquiry, and improvement, bringing me closer to mastering the field of data science.
-
-🌐 Let's Talk: I welcome collaboration, guidance, and insights from other data aficionados. Let us work together to overcome obstacles and enjoy our successes!
+This repository is a record of my journey towards mastering data science. So far, it primarily includes real-life assignments and projects completed for Harvard University's professional data science program via HarvardX. I'll continuously update this space, sharing new learnings and experiences, aiming to deepen my understanding of data science and enhance my data analysis skills. Stay tuned for more!
